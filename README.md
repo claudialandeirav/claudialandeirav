@@ -1,4 +1,6 @@
-# Hi, I'm Claudia! 👋
+![Header](./github-header-image.png)
+
+
 ## 🚀 About Me
 I'm Claudia ([@claudialandeirav](https://github.com/claudialandeirav)) , computer engineer
 
