@@ -1,8 +1,10 @@
+![Header](./github-header.png)
 
 I'm Claudia ([@claudialandeirav](https://github.com/claudialandeirav)) , computer engineer
 
 Actually, I'm working on IT MES Support, but i have always really liked developing my own projects.
 
+## 
 ![Header](./github-projects-header-image.png)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudialandeirav&repo=ChatScriptor)]([https://github.com/claudialandeirav/ChatScriptor])
