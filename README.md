@@ -14,8 +14,7 @@ In summary, I am an enthusiastic and dedicated developer, always seeking to expa
 ![Header](./github-projects.png)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudialandeirav&repo=ChatScriptor)]([https://github.com/claudialandeirav/ChatScriptor])
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudialandeirav&repo=Rickopedia)]([https://github.com/claudialandeirav/Rickopedia])-->
-- <strong>Rickopedia</strong>: in process
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudialandeirav&repo=Rickopedia)]([https://github.com/claudialandeirav/Rickopedia])
   
 ##
 
