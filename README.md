@@ -2,7 +2,7 @@
 
 Hi! I'm Claudia ([@claudialandeirav](https://github.com/claudialandeirav)).
 
-I am a passionate individual about computer science, recently graduated in Computer Engineering, and currently working as a junior frontend developer at a technology company. My academic and professional background has provided me with a solid foundation in computer science, but my true passion lies in the creativity and innovation involved in software development.
+I am a passionate individual about computer science, recently graduated in Computer Engineering, and currently working as a junior developer at a technology company. My academic and professional background has provided me with a solid foundation in computer science, but my true passion lies in the creativity and innovation involved in software development.
 
 In addition to my work, I am committed to my personal and professional growth. I am currently dedicating time to improving my proficiency in the English language and working towards achieving level C1. I firmly believe in the importance of continuous learning and exploring new areas of knowledge.
 
