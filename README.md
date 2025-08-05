@@ -15,7 +15,7 @@ In summary, I am an enthusiastic and dedicated developer, always seeking to expa
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudialandeirav&repo=ChatScriptor)]([https://github.com/claudialandeirav/ChatScriptor])
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudialandeirav&repo=Rickopedia)]([https://github.com/claudialandeirav/Rickopedia])
-- Universal Data Portal: work in progress
+- PowerCore: work in progress
 ##
 
 ![Header](./github-tech.png)
